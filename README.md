@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Pratik%20Kokare&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20%7C%20DATA%20SCIENCE%20%7C%20BUILDING%20IN%20PUBLIC&descAlignY=68&descSize=16" width="100%" alt="Pratik Kokare colorful gradient banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=PRATIK%20KOKARE&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Pratik Kokare animated gradient banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Initializing+Pratik's+GitHub...;B.Tech+%7C+Artificial+Intelligence+%26+ML;BS+Data+Science+%40+IIT+Madras;Learning+mode%3A+Always+ON+%F0%9F%9A%80" alt="Animated terminal intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey+there%2C+I%27m+Pratik+Kokare;B.Tech+Student+in+AI+and+ML;BS+Data+Science+at+IIT+Madras;Learning+mode%3A+Always+ON" alt="Animated typing introduction"/>
 
-<br>
+<br><br>
 
-<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/STATUS-CURIOSITY%20%3E%20COMFORT-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Learning status"/>
+<img src="https://img.shields.io/badge/AI_AND_ML-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-EC4899?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML_CSS-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS"/>
+
+<br><br>
+
+<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING_AND_GROWING-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Learning status"/>
 
 </div>
 
@@ -22,13 +30,14 @@
 
 ## 🧬 THE HUMAN BEHIND THE CODE
 
-Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intelligent systems can solve real problems.
+Hey, I'm **Pratik Kokare** — a student exploring software, data, and intelligent systems.
 
-- 🧠 **Curious about:** AI, Machine Learning & Data Science
-- 🐍 **Building foundations in:** Python, SQL, HTML & CSS
-- 🎓 **Dual learning journey:** B.Tech AI & ML + BS Data Science
-- 🔭 **Current mission:** Learn the fundamentals and turn them into practical projects
-- 🌱 **Mindset:** Start small. Stay consistent. Keep shipping.
+- 🧠 **Curious about:** AI, Machine Learning, and Data Science
+- 🐍 **Learning:** Python programming
+- 🗄️ **Exploring:** SQL, HTML, and CSS
+- 🎓 **Learning journey:** B.Tech in AI and ML plus BS in Data Science
+- 🔭 **Current mission:** Build strong foundations, then turn ideas into real projects
+- 🌱 **Mindset:** Start small. Stay consistent. Keep improving.
 
 </td>
 <td width="40%" valign="top">
@@ -37,11 +46,11 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 | Signal | Status |
 |:--|:--|
-| Python | `Learning` |
-| SQL | `Learning` |
-| HTML / CSS | `Learning` |
-| AI & ML | `Exploring` |
-| Projects | `In progress` |
+| Python | Learning |
+| SQL | Learning |
+| HTML / CSS | Learning |
+| AI and ML | Exploring |
+| Projects | Coming soon |
 
 <br>
 
@@ -76,7 +85,7 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 <img src="https://img.shields.io/badge/P._R._POTE_PATIL-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="P R Pote Patil College"/>
 
-### P. R. Pote Patil College of Engineering & Management, Amravati
+### P. R. Pote Patil College of Engineering and Management, Amravati
 
 **B.Tech — Artificial Intelligence and Machine Learning**
 
@@ -93,16 +102,16 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 ## 🧰 MY TOOLBOX — GROWING ONE SKILL AT A TIME
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/VS_Code-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
 <br>
 
-<sub>I'm a beginner, so I'm keeping this list honest. More tools will be added as I gain real hands-on experience.</sub>
+<sub>Beginner-friendly and honest: this stack will grow as I gain hands-on experience.</sub>
 
 </div>
 
@@ -112,26 +121,26 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 <tr>
 <td width="50%" valign="top">
 
-## 🛰️ LEARNING RADAR
+## 📡 LEARNING RADAR
 
 - [ ] Python fundamentals
-- [ ] SQL queries & database basics
+- [ ] SQL and database basics
 - [ ] HTML page structure
-- [ ] CSS styling & responsive layouts
+- [ ] CSS styling and layouts
 - [ ] Problem-solving practice
-- [ ] AI / ML fundamentals
-- [ ] First documented projects
+- [ ] AI and ML fundamentals
+- [ ] First documented project
 
 </td>
 <td width="50%" valign="top">
 
-## 🎯 QUEST LOG · 2026
+## 🎯 QUEST LOG — 2026
 
-- [ ] Build a strong programming foundation
-- [ ] Publish my first real GitHub projects
+- [ ] Strengthen programming basics
+- [ ] Publish my first real projects
 - [ ] Practise coding consistently
-- [ ] Learn the basics of Machine Learning
-- [ ] Write clear READMEs for projects
+- [ ] Learn Machine Learning foundations
+- [ ] Write clear project READMEs
 - [ ] Explore internships and open source
 
 <br>
@@ -148,9 +157,11 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 ## 🧪 PROJECT LAB
 
-**The lab is warming up.** I'm learning the foundations before publishing projects, so there are no placeholder projects pretending to be finished work here.
+### The lab is warming up 🚀
 
-<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/WATCH_THIS_SPACE-View_my_repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View real repositories"/></a>
+I'm learning the fundamentals before publishing projects, so there are no placeholder projects pretending to be finished work here.
+
+<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/WATCH_THIS_SPACE-View_My_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/></a>
 
 </div>
 
@@ -166,11 +177,11 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pratikrkokare&label=PROFILE%20SCANS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=pratikrkokare&label=PROFILE%20VISITS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -191,4 +202,4 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,24,20,12" width="100%" alt="Colorful animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=30,24,20,12" width="100%" alt="Colorful animated footer"/>
