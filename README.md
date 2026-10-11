@@ -1,27 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Pratik%20Kokare&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Pratik Kokare animated gradient banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PRATIK%20KOKARE&fontSize=58&fontColor=F8FAFC&stroke=8B5CF6&strokeWidth=2&color=0:111827,35:312E81,70:7C3AED,100:06B6D4&animation=twinkling&fontAlignY=48&desc=AI%20%26%20ML%20%7C%20DATA%20SCIENCE%20%7C%20BUILDING%20IN%20PUBLIC&descAlignY=70&descSize=16" width="100%" alt="Pratik Kokare neon banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Hey+%F0%9F%91%8B%2C+I'm+Pratik+Kokare;B.Tech+AI+%26+ML+Student;BS+Data+Science+%40+IIT+Madras;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Initializing+Pratik's+GitHub...;B.Tech+%7C+Artificial+Intelligence+%26+ML;BS+Data+Science+%40+IIT+Madras;Learning+mode%3A+Always+ON+%F0%9F%9A%80" alt="Animated terminal intro"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI and Machine Learning"/>
-<img src="https://img.shields.io/badge/DATA_SCIENCE-EC4899?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML_%2F_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS"/>
-
-<br><br>
-
-<a href="https://github.com/pratikrkokare?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/STATUS-CURIOSITY%20%3E%20COMFORT-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Learning status"/>
 
 </div>
 
@@ -29,30 +18,34 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-## 🚀 About Me
+## 🧬 THE HUMAN BEHIND THE CODE
 
-Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and data.
+Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intelligent systems can solve real problems.
 
-- 🎓 Pursuing B.Tech in **Artificial Intelligence & Machine Learning**
-- 📚 Pursuing **BS in Data Science and Applications** at IIT Madras
-- 🐍 Learning Python and building programming foundations
-- 🗄️ Exploring SQL, HTML, and CSS
-- 🧠 Interested in AI, Machine Learning, and Data Science
-- 🌱 Learning step by step and working towards my first projects
+- 🧠 **Curious about:** AI, Machine Learning & Data Science
+- 🐍 **Building foundations in:** Python, SQL, HTML & CSS
+- 🎓 **Dual learning journey:** B.Tech AI & ML + BS Data Science
+- 🔭 **Current mission:** Learn the fundamentals and turn them into practical projects
+- 🌱 **Mindset:** Start small. Stay consistent. Keep shipping.
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-## ✨ My Motto
+## ⚡ CURRENT MODE
 
-> **Build. Learn. Improve. Repeat.**
+| Signal | Status |
+|:--|:--|
+| Python | `Learning` |
+| SQL | `Learning` |
+| HTML / CSS | `Learning` |
+| AI & ML | `Exploring` |
+| Projects | `In progress` |
 
-💡 Stay curious  
-🧩 Solve problems  
-🌱 Keep learning  
-🚀 Make progress every day
+<br>
+
+> **Curiosity is the engine. Consistency is the cheat code.** ✨
 
 </td>
 </tr>
@@ -62,7 +55,7 @@ Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and
 
 <div align="center">
 
-## 🎓 Education
+## 🎓 TWO CAMPUSES. ONE GROWTH JOURNEY.
 
 </div>
 
@@ -70,22 +63,24 @@ Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Indian Institute of Technology Madras
+<img src="https://img.shields.io/badge/IIT_MADRAS-0F766E?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Madras"/>
+
+### Indian Institute of Technology Madras
 
 **BS in Data Science and Applications**
 
-📚 Undergraduate student  
-🔄 Currently pursuing
+<sub>Undergraduate · Currently pursuing</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 P. R. Pote Patil College of Engineering & Management, Amravati
+<img src="https://img.shields.io/badge/P._R._POTE_PATIL-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="P R Pote Patil College"/>
+
+### P. R. Pote Patil College of Engineering & Management, Amravati
 
 **B.Tech — Artificial Intelligence and Machine Learning**
 
-📍 Amravati, Maharashtra  
-📚 First year · Currently pursuing
+<sub>First year · Currently pursuing</sub>
 
 </td>
 </tr>
@@ -95,24 +90,21 @@ Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and
 
 <div align="center">
 
-## 🧰 Tech Stack & Tools
+## 🧰 MY TOOLBOX — GROWING ONE SKILL AT A TIME
 
-### Languages and Web Basics
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-### Tools
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/VS_Code-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+
+<br>
+
+<sub>I'm a beginner, so I'm keeping this list honest. More tools will be added as I gain real hands-on experience.</sub>
 
 </div>
-
-> 🌱 I'm at the beginning of my learning journey, so this stack will grow as I gain hands-on experience.
 
 ---
 
@@ -120,26 +112,31 @@ Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and
 <tr>
 <td width="50%" valign="top">
 
-## 📚 Currently Learning
+## 🛰️ LEARNING RADAR
 
-- [ ] Python programming fundamentals
-- [ ] SQL and database basics
-- [ ] HTML and CSS
-- [ ] Problem-solving and coding practice
-- [ ] AI and Machine Learning fundamentals
-- [ ] Building practical projects
+- [ ] Python fundamentals
+- [ ] SQL queries & database basics
+- [ ] HTML page structure
+- [ ] CSS styling & responsive layouts
+- [ ] Problem-solving practice
+- [ ] AI / ML fundamentals
+- [ ] First documented projects
 
 </td>
 <td width="50%" valign="top">
 
-## 🎯 Goals for 2026
+## 🎯 QUEST LOG · 2026
 
-- [ ] Strengthen programming basics
-- [ ] Build and publish my first projects
-- [ ] Learn the foundations of Machine Learning
-- [ ] Practise problem-solving consistently
-- [ ] Improve my GitHub portfolio
-- [ ] Explore internship opportunities
+- [ ] Build a strong programming foundation
+- [ ] Publish my first real GitHub projects
+- [ ] Practise coding consistently
+- [ ] Learn the basics of Machine Learning
+- [ ] Write clear READMEs for projects
+- [ ] Explore internships and open source
+
+<br>
+
+<img src="https://img.shields.io/badge/DAILY_QUEST-KEEP_GOING-EC4899?style=for-the-badge&logo=target&logoColor=white" alt="Daily quest"/>
 
 </td>
 </tr>
@@ -149,45 +146,11 @@ Hey! I'm **Pratik Kokare**, a student exploring the world of technology, AI, and
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🧪 PROJECT LAB
 
-</div>
+**The lab is warming up.** I'm learning the foundations before publishing projects, so there are no placeholder projects pretending to be finished work here.
 
-<table>
-<tr>
-<td align="center" valign="top">
-
-### 🌌 Projects Coming Soon!
-
-I'm currently learning the fundamentals and preparing to build practical projects.
-
-**This space will feature my real repositories as I publish them.**
-
-<a href="https://github.com/pratikrkokare?tab=repositories">
-  <img src="https://img.shields.io/badge/Check_My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Check repositories"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📈 GitHub Glow
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pratikrkokare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF" alt="Pratik's GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrkokare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF" alt="Most used programming languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=pratikrkokare&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A855F7&currStreakLabel=06B6D4" alt="GitHub contribution streak"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=pratikrkokare&style=for-the-badge&color=9333EA" alt="Profile views"/>
+<a href="https://github.com/pratikrkokare?tab=repositories"><img src="https://img.shields.io/badge/WATCH_THIS_SPACE-View_my_repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View real repositories"/></a>
 
 </div>
 
@@ -195,21 +158,37 @@ I'm currently learning the fundamentals and preparing to build practical project
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 📡 GITHUB TELEMETRY
 
-<a href="https://github.com/pratikrkokare">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pratikrkokare&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0B1020&title_color=22D3EE&icon_color=F472B6&text_color=E2E8F0" alt="GitHub stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrkokare&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=F472B6&text_color=E2E8F0" alt="Most used languages"/>
 
 <br><br>
 
-### ✨ LEARN • BUILD • SHARE • GROW ✨
+<img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak"/>
 
-*“A better version of me is always under construction.”* 🚀
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pratikrkokare&label=PROFILE%20SCANS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=30,24,20,12" width="100%" alt="Animated gradient footer"/>
+---
+
+<div align="center">
+
+## 🌐 SIGNAL ME
+
+<a href="https://github.com/pratikrkokare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/pratik-kokare-15316b422/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+
+<br><br>
+
+### `LEARN()` → `BUILD()` → `IMPROVE()` → `REPEAT()` ♻️
+
+*Not an expert yet. Just getting started — and that's the exciting part.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:06B6D4,35:7C3AED,70:EC4899,100:F97316&animation=twinkling" width="100%" alt="Animated neon footer"/>
