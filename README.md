@@ -1,72 +1,138 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Pratik Kokare
+# 👋 Hi, I'm Pratik Kokare
 
-### 🎓 AI & ML | Data Science | Developer in Progress
+### <span style="color:#00D9FF">AI & ML • Data Science • Developer in Progress</span>
 
-*Learning, building, and improving one project at a time.*
+**Learn • Build • Improve • Repeat 🚀**
 
-[![GitHub](https://img.shields.io/badge/GitHub-pratikrkokare-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
+[![Profile Views](https://komarev.com/ghpvc/?username=pratikrkokare&style=for-the-badge&color=blue)](https://github.com/pratikrkokare)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
-- 🏫 P. R. Pote Patil College of Engineering & Management, Amravati
-- 📚 Pursuing **BS in Data Science and Applications** at IIT Madras
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
-- 💡 Enjoy learning new technologies and solving problems
-- 🚀 Working towards building useful real-world projects
+## 🎓 Education
+
+**Indian Institute of Technology Madras**
+
+BS in Data Science and Applications
+
+*Undergraduate student*
+
+---
+
+**P. R. Pote Patil College of Engineering & Management, Amravati**
+
+B.Tech — Artificial Intelligence and Machine Learning
+
+*First year student*
+
+</td>
+<td width="50%" valign="top">
+
+## 💻 About Me
+
+- 🤖 Interested in AI & Machine Learning
+- 📊 Exploring Data Science
+- 🐍 Learning Python
+- 🧩 Improving problem-solving skills
+- 🚀 Building my developer journey
+
+> Small steps. Big progress.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies I'm Exploring
+## ⚡ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 📚 Currently Learning
 
-- 🧠 Artificial Intelligence and Machine Learning
-- 📊 Data Science and Data Analysis
-- 🐍 Python Programming
-- 🧩 Data Structures and Problem Solving
-- 💻 Building practical projects
+- [ ] Python programming
+- [ ] Data Structures & Algorithms
+- [ ] Machine Learning fundamentals
+- [ ] Data analysis
+- [ ] Building practical projects
+
+</td>
+<td width="50%" valign="top">
+
+## 🎯 Goals
+
+- [ ] Build AI/ML projects
+- [ ] Improve coding skills
+- [ ] Create quality repositories
+- [ ] Explore open-source contributions
+- [ ] Prepare for internships
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 My Goals
+## 🚀 Featured Projects
 
-- [ ] Build my first strong AI/ML project
-- [ ] Improve Python and problem-solving skills
-- [ ] Create quality GitHub repositories
-- [ ] Contribute to open-source projects
-- [ ] Prepare for internships in technology
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI / ML
+
+Machine learning projects, experiments and practical applications.
+
+**Status:** Coming soon
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data Science
+
+Data analysis, visualization and learning projects.
+
+**Status:** Coming soon
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Programming
+
+Python programs and problem-solving practice.
+
+**Status:** Coming soon
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
-
-*Add your actual project repositories below as you publish them.*
-
-- 🤖 **AI/ML Projects** — Coming soon
-- 📊 **Data Science Projects** — Coming soon
-- 💻 **Programming Projects** — Coming soon
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Dashboard
 
 <div align="center">
 
@@ -74,42 +140,29 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrkokare&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/pratikrkokare">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Add your real LinkedIn URL below -->
-</p>
-
----
+## 🌐 Let's Connect
 
 <div align="center">
 
-### 💫 "Small steps every day lead to big achievements."
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
+
+<!-- Replace the URL below with your actual LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
+
+<div align="center">
+
+### 💫 "A better version of me is always under construction."
 
 **Thanks for visiting my profile! 🚀**
 
 </div>
-
-<!--
-**pratikrkokare/pratikrkokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
