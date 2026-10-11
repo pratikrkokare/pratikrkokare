@@ -1,168 +1,251 @@
+::: {align="center"}
+```{=html}
+<!-- Optional: upload a banner image to your repository as assets/github-banner.png -->
+```
+`<img src="assets/github-banner.png" alt="Pratik Kokare — AI, ML and Data Science" width="100%">`{=html}
 
-<div align="center">
+# 👋 Hey there, I'm Pratik Kokare
 
-# 👋 Hi, I'm Pratik Kokare
+### [AI & ML • Data Science • Developer in Progress]{style="color:#00D9FF"}
 
-### <span style="color:#00D9FF">AI & ML • Data Science • Developer in Progress</span>
+*Learning today, building tomorrow.* 🚀
 
-**Learn • Build • Improve • Repeat 🚀**
+[![GitHub](https://img.shields.io/badge/GitHub-pratikrkokare-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+:::
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
-[![Profile Views](https://komarev.com/ghpvc/?username=pratikrkokare&style=for-the-badge&color=blue)](https://github.com/pratikrkokare)
+------------------------------------------------------------------------
 
-</div>
-
----
-
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-<td width="50%" valign="top">
+```
+```{=html}
+<td width="55%" valign="top">
+```
+## 🚀 About Me
+
+I'm a student exploring **Artificial Intelligence, Machine Learning, and
+Data Science**. I enjoy learning new technologies, solving problems, and
+building useful projects step by step.
+
+-   🤖 Interested in AI and Machine Learning
+-   📊 Exploring Data Science and analytics
+-   🧩 Improving programming and problem-solving skills
+-   🌱 Always learning and experimenting
+-   🎯 Working towards meaningful projects and internship opportunities
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="45%" valign="top">
+```
+## ✨ My Motto
+
+> **Build. Learn. Improve. Repeat.**
+
+Small steps every day lead to big achievements.
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
 
 ## 🎓 Education
 
-**Indian Institute of Technology Madras**
-
-BS in Data Science and Applications
-
-*Undergraduate student*
-
----
-
-**P. R. Pote Patil College of Engineering & Management, Amravati**
-
-B.Tech — Artificial Intelligence and Machine Learning
-
-*First year student*
-
-</td>
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🏛️ Indian Institute of Technology Madras
 
-## 💻 About Me
+**BS in Data Science and Applications**
 
-- 🤖 Interested in AI & Machine Learning
-- 📊 Exploring Data Science
-- 🐍 Learning Python
-- 🧩 Improving problem-solving skills
-- 🚀 Building my developer journey
+Undergraduate student · Pursuing
 
-> Small steps. Big progress.
-
+```{=html}
 </td>
-</tr>
-</table>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🎓 P. R. Pote Patil College of Engineering & Management, Amravati
 
----
+**B.Tech --- Artificial Intelligence and Machine Learning**
+
+First-year student · Pursuing
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+## 🧠 Currently Learning
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+-   [ ] Python programming
+-   [ ] Data Structures and Algorithms
+-   [ ] Machine Learning fundamentals
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+-   [ ] Data Science and analytics
+-   [ ] Practical project development
+-   [ ] Open-source collaboration
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
+::: {align="center"}
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+:::
 
-</div>
+> Add other languages and tools here once you're comfortable using them.
 
----
+------------------------------------------------------------------------
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎯 Goals for 2026
 
-## 📚 Currently Learning
+-   [ ] Build practical AI/ML projects
+-   [ ] Strengthen Python and problem-solving skills
+-   [ ] Publish well-documented GitHub repositories
+-   [ ] Explore open-source contributions
+-   [ ] Prepare for relevant internships
+-   [ ] Stay consistent and keep learning
 
-- [ ] Python programming
-- [ ] Data Structures & Algorithms
-- [ ] Machine Learning fundamentals
-- [ ] Data analysis
-- [ ] Building practical projects
-
-</td>
-<td width="50%" valign="top">
-
-## 🎯 Goals
-
-- [ ] Build AI/ML projects
-- [ ] Improve coding skills
-- [ ] Create quality repositories
-- [ ] Explore open-source contributions
-- [ ] Prepare for internships
-
-</td>
-</tr>
-</table>
-
----
+------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
+```{=html}
+<!-- Replace these placeholders with real repository links and project descriptions. -->
+```
+```{=html}
 <table>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="33%" valign="top">
+```
+### 🤖 AI / ML Project
 
-### 🤖 AI / ML
+Add a short description of an AI or machine-learning project here.
 
-Machine learning projects, experiments and practical applications.
+[View repository](https://github.com/pratikrkokare?tab=repositories)
 
-**Status:** Coming soon
-
+```{=html}
 </td>
+```
+```{=html}
 <td width="33%" valign="top">
+```
+### 📊 Data Science Project
 
-### 📊 Data Science
+Add a short description of a data analysis or data science project here.
 
-Data analysis, visualization and learning projects.
+[View repository](https://github.com/pratikrkokare?tab=repositories)
 
-**Status:** Coming soon
-
+```{=html}
 </td>
+```
+```{=html}
 <td width="33%" valign="top">
+```
+### 💻 Programming Project
 
-### 💻 Programming
+Add a short description of a programming project here.
 
-Python programs and problem-solving practice.
+[View repository](https://github.com/pratikrkokare?tab=repositories)
 
-**Status:** Coming soon
-
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-## 📈 GitHub Dashboard
+## 📊 GitHub Dashboard
 
-<div align="center">
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikrkokare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=BC5CFF&text_color=EAF2FF" alt="Pratik's GitHub statistics">`{=html}
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikrkokare&show_icons=true&theme=tokyonight&hide_border=true" />
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrkokare&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=EAF2FF" alt="Most used languages">`{=html}
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrkokare&layout=compact&theme=tokyonight&hide_border=true" />
+`<br>`{=html}
 
-<br/>
+`<img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true&background=07111F&ring=BC5CFF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak">`{=html}
+:::
 
-<img src="https://streak-stats.demolab.com?user=pratikrkokare&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
+::: {align="center"}
 [![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/pratikrkokare)
-
-<!-- Replace the URL below with your actual LinkedIn profile URL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+:::
 
-</div>
+------------------------------------------------------------------------
 
-<div align="center">
-
+::: {align="center"}
 ### 💫 "A better version of me is always under construction."
 
-**Thanks for visiting my profile! 🚀**
-
-</div>
+Thanks for stopping by! ⭐
+:::
