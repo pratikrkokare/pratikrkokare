@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PRATIK%20KOKARE&fontSize=58&fontColor=F8FAFC&stroke=8B5CF6&strokeWidth=2&color=0:111827,35:312E81,70:7C3AED,100:06B6D4&animation=twinkling&fontAlignY=48&desc=AI%20%26%20ML%20%7C%20DATA%20SCIENCE%20%7C%20BUILDING%20IN%20PUBLIC&descAlignY=70&descSize=16" width="100%" alt="Pratik Kokare neon banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Pratik%20Kokare&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20%7C%20DATA%20SCIENCE%20%7C%20BUILDING%20IN%20PUBLIC&descAlignY=68&descSize=16" width="100%" alt="Pratik Kokare colorful gradient banner"/>
 
 <br>
 
@@ -191,4 +191,4 @@ Hey, I'm **Pratik Kokare** — a student exploring how software, data, and intel
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:06B6D4,35:7C3AED,70:EC4899,100:F97316&animation=twinkling" width="100%" alt="Animated neon footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,24,20,12" width="100%" alt="Colorful animated footer"/>
